@@ -1,6 +1,6 @@
 # Find-Longest-Path-v2
 ## Summary
-This program finds and highlights the longest path in a matrix of numbers. The longest path has to be the same number and can be from any direction adjacent to the matrix entry including corners. This is v2 of Find the Longest Path. It's GUI implementation is the same as v1 but the algorithm is different. 
+This program finds and highlights the longest path in a matrix of numbers. The longest path has to be the same number and can be from any direction adjacent to the matrix entry including corners. This is v2 of Find the Longest Path. It's GUI implementation is the same as v1 but the algorithm uses a bottom-up approach instead 
 
 For more information on the algorithm, please go to and main.py and Implementation (Algorithm).
 
